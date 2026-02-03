@@ -1,0 +1,164 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 14,
+  "numPassedTests": 14,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1770159007689,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Product componentinde styled-components import edilmiş.",
+          "status": "passed",
+          "title": "Product componentinde styled-components import edilmiş.",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Product componentinde styled-component olarak ProductCard oluşturulmuş ve kullanılmış.",
+          "status": "passed",
+          "title": "Product componentinde styled-component olarak ProductCard oluşturulmuş ve kullanılmış.",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Styled-component olarak Category oluşturulmuş ve kullanılmış.",
+          "status": "passed",
+          "title": "Styled-component olarak Category oluşturulmuş ve kullanılmış.",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Styled-component olarak Image oluşturulmuş ve kullanılmış.",
+          "status": "passed",
+          "title": "Styled-component olarak Image oluşturulmuş ve kullanılmış.",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Styled-component olarak PriceTag oluşturulmuş ve kullanılmış.",
+          "status": "passed",
+          "title": "Styled-component olarak PriceTag oluşturulmuş ve kullanılmış.",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " PriceTag'a ürün kategorisi category prop'u ile iletilmiş",
+          "status": "passed",
+          "title": "PriceTag'a ürün kategorisi category prop'u ile iletilmiş",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " PriceTag'da category prop'una göre renk dinamik olarak ayarlanmış",
+          "status": "passed",
+          "title": "PriceTag'da category prop'una göre renk dinamik olarak ayarlanmış",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " PriceTag'da hover eklenmiş",
+          "status": "passed",
+          "title": "PriceTag'da hover eklenmiş",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Styled-component olarak Title oluşturulmuş ve kullanılmış.",
+          "status": "passed",
+          "title": "Styled-component olarak Title oluşturulmuş ve kullanılmış.",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Styled-component olarak Description oluşturulmuş ve kullanılmış.",
+          "status": "passed",
+          "title": "Styled-component olarak Description oluşturulmuş ve kullanılmış.",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " getClassName fonksiyonu Product componentinden silinmiş",
+          "status": "passed",
+          "title": "getClassName fonksiyonu Product componentinden silinmiş",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Product.css importu Product componentinden silinmiş",
+          "status": "passed",
+          "title": "Product.css importu Product componentinden silinmiş",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Product componenti styled-components ile doğru şekilde render oluyor.",
+          "status": "passed",
+          "title": "Product componenti styled-components ile doğru şekilde render oluyor.",
+          "duration": 17,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Styled componentler Product component fonksiyonun dışında tanımlanmış.",
+          "status": "passed",
+          "title": "Styled componentler Product component fonksiyonun dışında tanımlanmış.",
+          "duration": 0,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1770159043098,
+      "endTime": 1770159043120,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-cw5eef/src/__tests__/index.test.jsx"
+    }
+  ]
+}
