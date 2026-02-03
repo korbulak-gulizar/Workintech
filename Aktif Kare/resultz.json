@@ -1,0 +1,74 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 5,
+  "numPassedTests": 5,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1770156516193,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kareler ekranda doğru şekilde oluşmuş",
+          "status": "passed",
+          "title": "Kareler ekranda doğru şekilde oluşmuş",
+          "duration": 11,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Sayfa ilk yüklendiğinde seçili bir kare yok",
+          "status": "passed",
+          "title": "Sayfa ilk yüklendiğinde seçili bir kare yok",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Tıklanan kareye active classı ekleniyor.",
+          "status": "passed",
+          "title": "Tıklanan kareye active classı ekleniyor.",
+          "duration": 7,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Bir kareye 2 kere tıklanınca active classı eklenip kaldırılıyor",
+          "status": "passed",
+          "title": "Bir kareye 2 kere tıklanınca active classı eklenip kaldırılıyor",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Bir kareye tıklanınca diğer karalerdeki active classı kaldırılıyor",
+          "status": "passed",
+          "title": "Bir kareye tıklanınca diğer karalerdeki active classı kaldırılıyor",
+          "duration": 4,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1770156529774,
+      "endTime": 1770156529801,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-hungbz/src/__tests__/Kareler.test.jsx"
+    }
+  ]
+}
