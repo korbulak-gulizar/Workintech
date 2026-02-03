@@ -1,0 +1,44 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 2,
+  "numPassedTests": 2,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1770156830612,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Yorumlar componenti çalışır hale getirilmiş.",
+          "status": "passed",
+          "title": "Yorumlar componenti çalışır hale getirilmiş.",
+          "duration": 53,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Yorumlar doğru şekilde ekrana geliyor",
+          "status": "passed",
+          "title": "Yorumlar doğru şekilde ekrana geliyor",
+          "duration": 10,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1770157151288,
+      "endTime": 1770157151351,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-ncuvxr/src/__tests__/index.test.jsx"
+    }
+  ]
+}
