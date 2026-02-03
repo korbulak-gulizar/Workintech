@@ -1,0 +1,104 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 5,
+  "numPassedTests": 0,
+  "numFailedTests": 5,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1770158101057,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " SideBarda useEffect kullanılmış ve sayfa mount olduğunda kategoriler yükleniyor.",
+          "status": "failed",
+          "title": "SideBarda useEffect kullanılmış ve sayfa mount olduğunda kategoriler yükleniyor.",
+          "duration": 12,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 28,
+            "column": 40
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " useEffect ve axios import edilmiş ve kullanılmış.",
+          "status": "failed",
+          "title": "useEffect ve axios import edilmiş ve kullanılmış.",
+          "duration": 2,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 33,
+            "column": 40
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " useEffect içinde axios kullanılmış.",
+          "status": "failed",
+          "title": "useEffect içinde axios kullanılmış.",
+          "duration": 2,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 41,
+            "column": 40
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başlangıç değeri boş array olan bir state tanımlanmış",
+          "status": "failed",
+          "title": "Başlangıç değeri boş array olan bir state tanımlanmış",
+          "duration": 1,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 48,
+            "column": 42
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " CategoryList componentine categories propu ile kategoriler iletiliyor",
+          "status": "failed",
+          "title": "CategoryList componentine categories propu ile kategoriler iletiliyor",
+          "duration": 2,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 52,
+            "column": 54
+          }
+        }
+      ],
+      "startTime": 1770158132089,
+      "endTime": 1770158132108,
+      "status": "failed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-jpuc6t/src/__tests__/index.test.jsx"
+    }
+  ]
+}
